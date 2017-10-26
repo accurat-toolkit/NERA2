@@ -1,0 +1,5 @@
+d:\Work\C#\NERA2\NERA2\bin\Debug\NERA2.exe
+d:\Work\C#\NERA2\NERA2\bin\Debug\NERA2.pdb
+d:\Work\C#\NERA2\NERA2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Work\C#\NERA2\NERA2\obj\x86\Debug\NERA2.exe
+d:\Work\C#\NERA2\NERA2\obj\x86\Debug\NERA2.pdb
